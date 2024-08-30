@@ -1,0 +1,3 @@
+com\example\common\dto\request\ClienteRequestDto.class
+com\example\common\dto\response\ClienteResponseDto.class
+com\example\common\Main.class
